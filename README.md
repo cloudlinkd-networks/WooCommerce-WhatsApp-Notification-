@@ -8,8 +8,8 @@ Our goal is to provide the maximum possible functionality so that you as a site 
 
 Installation:
 
-- Download the "cloudlinkd+wpnotif-v3.0.1.1.zip" file from the downloads tab
-- Do not unzip the downloaded .zip file
+- Download the "cloudlinkd+wpnotif-v3.0.1.1.zip" file from the releases tab.
+- Do not unzip the downloaded .zip file.
 - Log in to your WordPress admin panel.
 - Select the plugins, then Add new.
 - Browse your computer to select the “cloudlinkd+wpnotif-v3.0.1.1.zip” file download.
@@ -18,7 +18,7 @@ Installation:
 
 Settings:
 
-- Go to settings tab and enable Whatsapp
+- Go to settings tab and enable WhatsApp
 - Select Whatsapp Gateway option and select "Custom Whatsapp Gateway"
 - WhatsApp Gateway URL: "https://wa-api.cloudlinkd.com/send?"
 - HTTP Method: "Post"
