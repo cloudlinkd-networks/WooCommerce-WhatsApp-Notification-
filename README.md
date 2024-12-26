@@ -11,7 +11,7 @@ The plugin is organized into three primary sections:<br>
 
 Installation, Settings and Test Gateway.
 
-Installation:
+Installation :
 
 - Download the "cloudlinkd+wpnotif-v3.0.1.1.zip" file from the releases tab.
 - Do not unzip the downloaded .zip file.
@@ -21,7 +21,7 @@ Installation:
 - Click Install Now and WordPress will do its magic and install the Plugin.
 - After the installation is complete, activate the plug-in.
 
-Settings:
+Settings :
 
 - Go to settings tab and enable WhatsApp
 - Select Whatsapp Gateway option and select "Custom Whatsapp Gateway"
@@ -32,7 +32,7 @@ Settings:
 - Encode Message: "No"
 - Phone Number: with + and country code
 
-Test Gateway Setting:
+Test Gateway Setting :
 
 - Message Content: Any test message of your choice
 - Phone Number: Your receiver phone number
