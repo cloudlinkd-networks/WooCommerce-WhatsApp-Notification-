@@ -37,3 +37,9 @@ Test Gateway Setting:
 - Message Content: Any test message of your choice
 - Phone Number: Your receiver phone number
 - Click Test and you will see the test response like {Success:true}
+
+----------
+
+## Credits
+
+All credits to the [Team CloudLinkd](https://www.cloudlinkd.com) and the original creators of these files.</br>
