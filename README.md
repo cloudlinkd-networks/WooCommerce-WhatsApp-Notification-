@@ -30,7 +30,7 @@ Settings :
 - Select Whatsapp Gateway option and select "Custom Whatsapp Gateway"
 - WhatsApp Gateway URL: "https://wa-api.cloudlinkd.com/send?"
 - HTTP Method: "Post"
-- Gateway Parameters: "receiver={to}&msgtext={message}&token=your-cloudlinkd-token"
+- Gateway Parameters: "receiver={to}&msgtext={message}&token=your-cloudlinkd-token from https://wa.cloudlinkd.com"
 - Send as Body Data: "Yes"
 - Encode Message: "No"
 - Phone Number: with + and country code
