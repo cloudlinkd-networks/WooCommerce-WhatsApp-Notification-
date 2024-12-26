@@ -27,7 +27,7 @@ Installation :
 Settings :
 
 - Go to gateway tab and enable WhatsApp
-- Select Whatsapp Gateway option and select "Custom Whatsapp Gateway"
+- Select Whatsapp Gateway option and select "Custom WhatsApp Gateway"
 - WhatsApp Gateway URL: "https://wa-api.cloudlinkd.com/send?"
 - HTTP Method: "Post"
 - Gateway Parameters: "receiver={to}&msgtext={message}&token=your-cloudlinkd-token from https://wa.cloudlinkd.com"
