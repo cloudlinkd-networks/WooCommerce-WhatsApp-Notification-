@@ -2,9 +2,14 @@
 <img alt="Logo banner" src="https://github.com/cloudlinkd-networks/whatsapp-notification/blob/main/logo.png"/></p>
 </br>
 
-# CloudLinkd WPNotif</br></br>WordPress/Woo-Commerce SMS & WhatsApp Notifications Integration
+# CloudLinkd WhatsApp</br></br>WordPress/Woo-Commerce SMS & WhatsApp Notifications Integration
 
-Our goal is to provide the maximum possible functionality so that you as a site owner can configure the plug-in in the desired way and all this while keeping the interface easy to understand. But it is always good to know all the options. The plugin is divided into three main sections Installation, Settings, Test Gateway.
+Our aim is to deliver maximum functionality, enabling you as a site owner to configure the plugin exactly as needed, all while maintaining an user-friendly interface.<br>
+However, it's beneficial to be familiar with all the available options.<br>
+
+The plugin is organized into three primary sections:<br>
+
+Installation, Settings and Test Gateway.
 
 Installation:
 
