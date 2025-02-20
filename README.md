@@ -20,7 +20,7 @@ Installation :
 - Do not unzip the downloaded .zip file.
 - Log in to your WordPress admin panel.
 - Select the plugins, then Add new.
-- Browse your computer to select the “cloudlinkd+wpnotif-v3.0.1.1.zip” file download.
+- Browse your computer to select the “cloudlinkd+wpnotif-v3.0.2.zip” file download.
 - Click Install Now and WordPress will do its magic and install the Plugin.
 - After the installation is complete, activate the plug-in.
 
